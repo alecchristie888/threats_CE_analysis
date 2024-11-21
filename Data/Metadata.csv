@@ -1,0 +1,23 @@
+Field,Definition
+REALM,Biogeographic realm
+MSR,Mammal species richness
+M2,Mammal agriculture
+M5_3,Mammal logging
+M5_1,Mammal hunting
+M8_1,Mammal invasives
+M9,Mammal pollution
+M11,Mammal climate change
+ASR,Amphibian species richness
+A2,Amphibian agriculture
+A5_3,Amphibian logging
+A5_1,Amphibian hunting
+A8_1,Amphibian invasives
+A9,Amphibian pollution
+A11,Amphibian climate change
+BSR,Bird species richness
+B2,Bird agriculture
+B5_3,Bird logging
+B5_1,Bird hunting
+B8_1,Bird invasives
+B9,Bird pollution
+B11,Bird climate change
